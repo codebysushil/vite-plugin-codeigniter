@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-codeigniter",
+  "name": "codeigniter-vite-plugin",
   "version": "0.0.1",
   "description": "vite plugin for codeigniter 4",
   "main": "vite-plugin-codeigniter.js",
