@@ -1,0 +1,26 @@
+{
+  "name": "vite-plugin-codeigniter",
+  "version": "0.0.1",
+  "description": "vite plugin for codeigniter 4",
+  "main": "vite-plugin-codeigniter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebysushil/vite-plugin-codeiginter.git"
+  },
+  "keywords": [
+    "vite-plugin-codeigniter",
+    "vite",
+    "codeigniter",
+    "plugin",
+    "vite-plugin"
+  ],
+  "author": "Sushil Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codebysushil/vite-plugin-codeiginter/issues"
+  },
+  "homepage": "https://github.com/codebysushil/vite-plugin-codeiginter#readme"
+}
