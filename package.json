@@ -1,6 +1,6 @@
 {
   "name": "@codewithsushil/vite-plugin-codeigniter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vite plugin for codeigniter 4",
   "main": "vite-plugin-codeigniter.js",
   "scripts": {
